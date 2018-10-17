@@ -2,6 +2,8 @@
 
 <h4> <center><bold>Matrix CLI </bold> Payin/Payout/Income Simulator</center></h4>
 
+![screenshot from 2018-10-17 10-19-30](https://user-images.githubusercontent.com/22162473/47058116-2bb14d00-d1f6-11e8-8919-cb4c542312c6.png)
+
 Requirement:
 - php 7.2+
 
